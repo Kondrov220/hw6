@@ -1,8 +1,8 @@
 //1
-let Num = 1;
-while(Num <= 10){
-console.log(Num);
-Num ++;
+let num = 1;
+while(num <= 10){
+console.log(num);
+num ++;
 }
 //2
 // let Nume = 2;
